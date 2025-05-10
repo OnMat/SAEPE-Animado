@@ -1,0 +1,67 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ab22083f-5871-4237-95e1-c2006f9feea5
+
+  title: SAEPE Animado
+  subject: SAEPE Animado
+  description: o uso do Manim para a animação de questões do 3º ano do ensino médio do SAEPE
+  license: MIT
+
+  keywords:
+    - Python
+    - Manim
+    - SAEPE
+    - ensino médio
+    
+  language: pt_BR
+
+  github: https://github.com/OnMat/SAEPE-Animado
+  
+  plugins:
+    - src/xref.mjs
+    - src/landing-page.mjs
+    - src/directives.mjs
+    - src/admonition.mjs
+
+  toc:
+    - file: index.md
+    - file: orientacoes.md
+    - title: Matriz de Referência
+      children:
+        - file: geometria/index.md
+          children:
+            - file: geometria/animacao4.md
+            - file: geometria/animacao5.md
+        - file: medidas/index.md
+          children:
+            - file: medidas/animacao6.md
+            - file: medidas/animacao7.md
+            - file: medidas/animacao8.md
+            - file: medidas/animacao9.md
+        - file: numeros-e-funcoes/index.md
+          children:
+            - file: numeros-e-funcoes/animacao1.md
+            - file: numeros-e-funcoes/animacao2.md
+            - file: numeros-e-funcoes/animacao3.md
+        - file: estatistica/index.md
+          children:
+            - file: estatistica/animacao10.md
+            - file: estatistica/animacao11.md
+            - file: estatistica/animacao12.md
+    - file: sobre.md
+
+  exclude:
+    - README.md
+    - LICENSE
+
+site:
+  template: book-theme
+  options:
+    style: public/style.css
+    logo: public/logo.svg
+    folders: true
+  actions:
+    - title: GitHub
+      url: https://github.com/OnMat/SAEPE-Animado
+  #   favicon: favicon.ico
