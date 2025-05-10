@@ -1,4 +1,4 @@
-# Interagindo com Números e Funções
+# Números e Operações/Álgebra e Funções
 
 In this tutorial, we'll cover the basics of the Jupyter Book ecosystem, and step you through creating, building, and publishing your first book.
 
