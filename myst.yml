@@ -14,8 +14,6 @@ project:
     - SAEPE
     - ensino médio
     
-  language: pt_BR
-
   github: https://github.com/OnMat/SAEPE-Animado
   
   plugins:
@@ -27,7 +25,7 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - title: Animações
+    - file: animacoes.md
       children:
         - file: geometria/index.md
           children:
