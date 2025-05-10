@@ -1,33 +1,15 @@
-# Título do jogo
+---
+title: Título da Animação
+subject: Números e Operações/Álgebra e Funções
+---
 
-Breve descrição do jogo...
+Breve descrição do exercício...
 
 ## Descritores
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-## Objetivo
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## Materiais necessários
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-:::{note}
-Use uma tesoura bem afiada para garantir cortes perfeitos.
-:::
-
-## Como jogar
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## Início do jogo
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-## Fim do jogo
+## Enunciado
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
