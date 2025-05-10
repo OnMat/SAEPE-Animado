@@ -16,12 +16,6 @@ project:
     
   github: https://github.com/OnMat/SAEPE-Animado
   
-  plugins:
-    - src/xref.mjs
-    - src/landing-page.mjs
-    - src/directives.mjs
-    - src/admonition.mjs
-
   toc:
     - file: index.md
     - file: orientacoes.md
