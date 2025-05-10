@@ -27,7 +27,7 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - title: Matriz de Referência
+    - title: Animações
       children:
         - file: geometria/index.md
           children:
