@@ -3,13 +3,11 @@ title: Grandezas e Medidas
 subject: Animações
 ---
 
-In this tutorial, we'll cover the basics of the Jupyter Book ecosystem, and step you through creating, building, and publishing your first book.
+::::{grid} 1 1 2 3
 
-:::{admonition} A note for Windows users
-:class: warning
-
-Não esqueça de...
+:::{card}
+:header: Área do Trapézio ◢
+Um trapézio é um polígono bastante comum na prática.
 :::
 
-Confira os jogos desta seção a seguir.
-
+::::

@@ -3,14 +3,11 @@ title: Estatística, Probabilidade e Combinatória
 subject: Animações
 ---
 
+::::{grid} 1 1 2 3
 
-In this tutorial, we'll cover the basics of the Jupyter Book ecosystem, and step you through creating, building, and publishing your first book.
-
-:::{admonition} A note for Windows users
-:class: warning
-
-Não esqueça de...
+:::{card}
+:header: Arranjo, Combinação e Permutação ◢
+São conceitos fundamentais da análise combinatória.
 :::
 
-Confira os jogos desta seção a seguir.
-
+::::

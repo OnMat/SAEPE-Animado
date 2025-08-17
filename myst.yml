@@ -5,14 +5,13 @@ project:
 
   title: SAEPE Animado
   subject: Início
-  description: o uso do Manim para a animação de questões do 3º ano do ensino médio do SAEPE
+  description: o uso do Manim para o ensino de matemática do ensino médio
   license: MIT
 
   keywords:
-    - Python
+    - Animação
     - Manim
     - SAEPE
-    - ensino médio
     
   github: https://github.com/OnMat/SAEPE-Animado
   
@@ -23,24 +22,17 @@ project:
       children:
         - file: geometria/index.md
           children:
-            - file: geometria/animacao4.md
-            - file: geometria/animacao5.md
+            - file: geometria/relacoes-metricas-no-triangulo-retangulo.md
         - file: medidas/index.md
           children:
-            - file: medidas/animacao6.md
-            - file: medidas/animacao7.md
-            - file: medidas/animacao8.md
-            - file: medidas/animacao9.md
+            - file: medidas/area-do-trapezio.md
         - file: numeros-e-funcoes/index.md
           children:
-            - file: numeros-e-funcoes/animacao1.md
-            - file: numeros-e-funcoes/animacao2.md
-            - file: numeros-e-funcoes/animacao3.md
+            - file: numeros-e-funcoes/progressao-aritmetica.md
         - file: estatistica/index.md
           children:
-            - file: estatistica/animacao10.md
-            - file: estatistica/animacao11.md
-            - file: estatistica/animacao12.md
+            - file: estatistica/arranjo-combinacao-e-permutacao.md
+    - file: agradecimentos.md
     - file: sobre.md
 
   exclude:
