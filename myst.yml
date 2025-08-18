@@ -18,21 +18,18 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - file: animacoes.md
+    - file: geometria/index.md
       children:
-        - file: geometria/index.md
-          children:
-            - file: geometria/relacoes-metricas-no-triangulo-retangulo.md
-        - file: medidas/index.md
-          children:
-            - file: medidas/area-do-trapezio.md
-        - file: numeros-e-funcoes/index.md
-          children:
-            - file: numeros-e-funcoes/progressao-aritmetica.md
-        - file: estatistica/index.md
-          children:
-            - file: estatistica/arranjo-combinacao-e-permutacao.md
-    - file: agradecimentos.md
+        - file: geometria/relacoes-metricas-no-triangulo-retangulo.md
+    - file: medidas/index.md
+      children:
+        - file: medidas/area-do-trapezio.md
+    - file: numeros-e-funcoes/index.md
+      children:
+        - file: numeros-e-funcoes/progressao-aritmetica.md
+    - file: estatistica/index.md
+      children:
+        - file: estatistica/arranjo-combinacao-e-permutacao.md
     - file: sobre.md
 
   exclude:

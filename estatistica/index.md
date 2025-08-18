@@ -6,8 +6,9 @@ subject: Animações
 ::::{grid} 1 1 2 3
 
 :::{card}
-:header: Arranjo, Combinação e Permutação ◢
-São conceitos fundamentais da análise combinatória.
+:link: ./arranjo-combinacao-e-permutacao.md
+:header: Arranjo, Combinação e Permutação 📊
+Explora conceitos fundamentais da análise combinatória.
 :::
 
 ::::
